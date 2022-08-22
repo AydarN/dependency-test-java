@@ -7,4 +7,16 @@
   "commitMessageSuffix": "[SECURITY]",
   "branchTopic": "{{{datasource}}}-{{{depName}}}-vulnerability",
   "prCreation": "immediate"
+},
+{
+  "timezone": "Europe/Moscow",
+  "schedule": "after 2am every tuesday",
+  "lockFileMaintenance": {
+    "enabled": true,
+    "schedule": "0 7 * * 2"
+  },
+  "packageRules": [{
+    "packageNames": ["slf4j"],
+    "schedule": "after 7am and before 8am every tuesday"
+  }]
 }
