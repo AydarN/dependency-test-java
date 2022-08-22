@@ -10,6 +10,6 @@
   "schedule": "after 2am every tuesday",
   "packageRules": [{
     "packageNames": ["slf4j"],
-    "schedule": "after 7am and before 8am every tuesday"
+    "schedule": "after 7am"
   }]
 }
