@@ -189,7 +189,7 @@
         <dependency>
             <groupId>dev.vality</groupId>
             <artifactId>bender-proto</artifactId>
-            <version>1.20-be9cdeb</version>
+            <version>1.25-71c5687</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
