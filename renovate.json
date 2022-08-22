@@ -10,6 +10,6 @@
   "schedule": "after 2am every tuesday",
   "packageRules": [{
     "packageNames": ["slf4j"],
-    "schedule": "after 7am"
+    "allowedVersions": "<=1.7.36"
   }]
 }
