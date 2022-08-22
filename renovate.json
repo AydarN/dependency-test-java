@@ -3,11 +3,11 @@
   "extends": [
     "config:base"
   ]
+  },
   {
   "vulnerabilityAlerts": {
     "labels": ["security"],
     "automerge": true,
     "assignees": ["@aydarn"]
   }
-}
 }
