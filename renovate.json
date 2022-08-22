@@ -6,7 +6,6 @@
   "commitMessageSuffix": "[SECURITY]",
   "branchTopic": "{{{datasource}}}-{{{depName}}}-vulnerability",
   "prCreation": "immediate"
-  "timezone": "Europe/Moscow",
   "packageRules": [{
     "packageNames": ["slf4j"],
     "allowedVersions": "<=1.7.36"
