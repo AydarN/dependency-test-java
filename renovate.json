@@ -5,7 +5,7 @@
   "rangeStrategy": "update-lockfile",
   "commitMessageSuffix": "[SECURITY]",
   "branchTopic": "{{{datasource}}}-{{{depName}}}-vulnerability",
-  "prCreation": "immediate"
+  "prCreation": "immediate",
   "packageRules": [{
     "packageNames": ["slf4j"],
     "allowedVersions": "<=1.7.36"
