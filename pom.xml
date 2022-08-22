@@ -171,7 +171,7 @@
         <dependency>
             <groupId>dev.vality</groupId>
             <artifactId>damsel</artifactId>
-            <version>1.563-d384c12</version>
+            <version>1.570-53dab99</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
