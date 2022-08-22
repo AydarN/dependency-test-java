@@ -7,7 +7,7 @@
   "commitMessageSuffix": "[SECURITY]",
   "branchTopic": "{{{datasource}}}-{{{depName}}}-vulnerability",
   "prCreation": "immediate"
-},
+}
 {
   "timezone": "Europe/Moscow",
   "schedule": "after 2am every tuesday",
