@@ -2,15 +2,9 @@
   "dependencyDashboardApproval": true,
   "vulnerabilityAlerts": {
   "enabled": true,
-  "stabilityDays": 0,
-  "rangeStrategy": "update-lockfile",
   "labels": ["security"],
   "automerge": false,
   "assignees": ["@aydarn"],
-  "rangeStrategy": "update-lockfile",
-  "commitMessageSuffix": "[SECURITY]",
-  "branchTopic": "{{{datasource}}}-{{{depName}}}-vulnerability",
-  "prCreation": "immediate"
   },
   "packageRules": [{
     "packageNames": ["org.slf4j"],
