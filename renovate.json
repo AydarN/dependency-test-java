@@ -2,7 +2,12 @@
   "vulnerabilityAlerts": {
   "labels": ["security"],
   "automerge": false,
-  "assignees": ["@aydarn"]
+  "assignees": ["@aydarn"],
+  "rangeStrategy": "update-lockfile",
+  "commitMessageSuffix": "[SECURITY]",
+  "branchTopic": "{{{datasource}}}-{{{depName}}}-vulnerability",
+  "prCreation": "immediate",
+  "commitMessageSuffix": "[TEST]",
   },
   "groupName": null,
   "dependencyDashboardApproval": true,
