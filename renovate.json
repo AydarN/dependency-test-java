@@ -2,7 +2,7 @@
   "dependencyDashboardApproval": true,
   "vulnerabilityAlerts": {
   "enabled": true,
-  "labels": ["security"],
+  "labels": ["sec"],
   "automerge": false
   },
   "packageRules": [{
