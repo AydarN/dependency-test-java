@@ -7,7 +7,7 @@
   "assignees": ["@aydarn"]
   },
   "packageRules": [{
-    "packageNames": ["slf4j-simple"],
+    "packageNames": ["org.slf4j:slf4j-simple"],
     "allowedVersions": "<=1.7.36"
   }]
 }
