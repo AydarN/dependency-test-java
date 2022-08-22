@@ -1,0 +1,13 @@
+{
+  "groupName": null,
+  "dependencyDashboardApproval": true,
+  "stabilityDays": 0,
+  "rangeStrategy": "update-lockfile",
+  "commitMessageSuffix": "[SECURITY]",
+  "branchTopic": "{{{datasource}}}-{{{depName}}}-vulnerability",
+  "prCreation": "immediate",
+  "packageRules": [{
+    "packageNames": ["slf4j"],
+    "allowedVersions": "<=1.7.36"
+  }]
+}
