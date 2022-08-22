@@ -1,4 +1,9 @@
 {
+  "vulnerabilityAlerts": {
+  "labels": ["security"],
+  "automerge": false,
+  "assignees": ["@aydarn"]
+  },
   "groupName": null,
   "dependencyDashboardApproval": true,
   "stabilityDays": 0,
@@ -9,10 +14,5 @@
   "packageRules": [{
     "packageNames": ["slf4j"],
     "allowedVersions": "<=1.7.36"
-  }],
-  "vulnerabilityAlerts": {
-  "labels": ["security"],
-  "automerge": false,
-  "assignees": ["@aydarn"]
-  }
+  }]
 }
