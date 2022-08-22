@@ -13,7 +13,7 @@
   "prCreation": "immediate"
   },
   "packageRules": [{
-    "packageNames": ["slf4j"],
+    "packageNames": ["org.slf4j"],
     "allowedVersions": "<=1.7.36"
   }]
 }
