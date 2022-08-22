@@ -10,8 +10,9 @@
     "packageNames": ["slf4j"],
     "allowedVersions": "<=1.7.36"
   }],
-    "vulnerabilityAlerts": {
-    "labels": ["security"],
-    "automerge": false,
-    "assignees": ["@aydarn"]
+  "vulnerabilityAlerts": {
+  "labels": ["security"],
+  "automerge": false,
+  "assignees": ["@aydarn"]
+  }
 }
