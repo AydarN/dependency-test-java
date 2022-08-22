@@ -7,7 +7,6 @@
   "branchTopic": "{{{datasource}}}-{{{depName}}}-vulnerability",
   "prCreation": "immediate"
   "timezone": "Europe/Moscow",
-  "schedule": "after 2am every tuesday",
   "packageRules": [{
     "packageNames": ["slf4j"],
     "allowedVersions": "<=1.7.36"
