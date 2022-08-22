@@ -1,6 +1,7 @@
 {
-  "vulnerabilityAlerts": {
   "dependencyDashboardApproval": true,
+  "vulnerabilityAlerts": {
+  "enabled": true,
   "stabilityDays": 0,
   "rangeStrategy": "update-lockfile",
   "labels": ["security"],
