@@ -8,9 +8,4 @@
   "enabled": true,
   "labels": ["security"],
   "automerge": false
-  }
-  "packageRules": [{
-    "packageNames": ["org.slf4j:slf4j-simple"],
-    "allowedVersions": "<=1.7.36"
-  }]
 }
